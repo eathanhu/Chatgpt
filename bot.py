@@ -3,8 +3,8 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
 # ===== CONFIG =====
-TELEGRAM_BOT_TOKEN = "PASTE_YOUR_TELEGRAM_BOT_TOKEN"
-OPENAI_API_KEY = "PASTE_YOUR_OPENAI_API_KEY"
+TELEGRAM_BOT_TOKEN = "5060780668:AAFMl_ORaP8o75IYiXvTg17EztdLYFhltqA"
+OPENAI_API_KEY = "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"
 
 openai.api_key = OPENAI_API_KEY
 
